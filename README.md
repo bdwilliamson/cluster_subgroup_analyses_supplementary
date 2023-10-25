@@ -1,6 +1,6 @@
 # Code to reproduce analyses in "Considerations for subgroup analyses in cluster-randomized trials based on aggregated individual-level predictors"
 
-This repository contains code to reproduce the analyses in "Considerations for subgroup analyses in cluster-randomized trials based on aggregated individual-level predictors" by Williamson, Coley, Hsu, McCracken, and Cook (2023+). All analyses were implemented in the freely available R programming language; specifically, version 4.2.1.
+This repository contains code to reproduce the analyses in ["Considerations for subgroup analyses in cluster-randomized trials based on aggregated individual-level predictors"](https://doi.org/10.1007/s11121-023-01606-1) by Williamson, Coley, Hsu, McCracken, and Cook (2023, _Prevention Science_). All analyses were implemented in the freely available R programming language; specifically, version 4.2.1.
 
 This README file provides an overview of the code available in the repository.
 
